@@ -1,0 +1,9 @@
+D:\34234\Chef\Chef\bin\Debug\Шеф.accdb
+D:\34234\Chef\Chef\bin\Debug\Chef.exe.config
+D:\34234\Chef\Chef\bin\Debug\Chef.exe
+D:\34234\Chef\Chef\bin\Debug\Chef.pdb
+D:\34234\Chef\Chef\obj\x86\Debug\Chef.Form1.resources
+D:\34234\Chef\Chef\obj\x86\Debug\Chef.Properties.Resources.resources
+D:\34234\Chef\Chef\obj\x86\Debug\Chef.csproj.GenerateResource.Cache
+D:\34234\Chef\Chef\obj\x86\Debug\Chef.exe
+D:\34234\Chef\Chef\obj\x86\Debug\Chef.pdb
